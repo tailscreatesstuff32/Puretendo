@@ -1,7 +1,7 @@
 # Puretendo
 a NSF player work in progress made in puredata vanilla
 
-CPU OK
+</br> CPU OK
 APU WIP
 VISUALS WIP
 loads an NSF properly
