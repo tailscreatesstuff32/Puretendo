@@ -1,5 +1,5 @@
 # Puretendo
-a NSF player work in progress made in puredata vanilla
+A NSF player work in progress made in puredata vanilla
 
 CPU OK <br />
 APU WIP <br />
