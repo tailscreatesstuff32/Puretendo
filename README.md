@@ -5,6 +5,7 @@ CPU OK <br />
 APU WIP <br />
 VISUALS WIP <br />
 loads an NSF properly <br />
+needs refining and cleanup but otherwise
 since this is free an audio visual programming software <br />
 im just testing my old port in this port to see if it works <br />
 <br />
